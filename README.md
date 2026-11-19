@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
@@ -30,3 +31,7 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+=======
+# Neura
+Neura is a web-based learning intelligence system that fills that gap: it models each course as a knowledge graph of concepts and prerequisite links, then informs each learner what they know, what is holding them back and what to learn next.  Neura gives students guidance that a score alone cannot.
+>>>>>>> 25311a0c3d57390edc06b9b29cdb15846eed5d84
